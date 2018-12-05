@@ -19,5 +19,5 @@ Route::get('/spokatmania', function () {
     return view('index');
 
 });
-Route::get('/register','register@index');
-Route::get('/login','login@index');
+Route::get('/signup','register@index');
+Route::get('/signin','login@index');
