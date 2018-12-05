@@ -43,10 +43,7 @@
                 <ul>
                   <li><a href="#"><span class="icon icon-person"></span>SIGN UP</a></li>
                   <li><a href="#"><span class="icon icon-person"></span>SIGN IN</a></li>
-<<<<<<< HEAD
-=======
                   <li><a href="#"><span class="icon icon-heart-o"></span></a></li>
->>>>>>> aabdfdbe06a522250c3e2a2c1f665921695ec472
                   <li>
                     <a href="cart.html" class="site-cart">
                       <span class="icon icon-shopping_cart"></span>CART
